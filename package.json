@@ -4,7 +4,7 @@
   "description": "Device orientation camera control with gl-matrix",
   "main": "lib/index.js",
   "dependencies": {
-    "gl-matrix": "^2.3.2",
+    "gl-matrix": "^2.3.2"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
@@ -44,7 +44,7 @@
     "device",
     "orientation",
     "control",
-    "gl",
+    "gl"
   ],
   "bugs": {
     "url": "https://github.com/JordanMachado/device-orientation-control/issues"
